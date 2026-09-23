@@ -1,6 +1,6 @@
 # Custode 🔐
 
-**A lightweight, zero-dependency, highly secure terminal-based password manager written in Pure Bash.**
+**A lightweight, zero-dependency, highly secure terminal-based password manager written in Pure Bash**
 
 ---
 
